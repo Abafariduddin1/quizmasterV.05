@@ -1,0 +1,2 @@
+What is the capital of Ireland?,Cork,Dublin,Kerry,Meath,2
+What is the most popular car color?,Red,Black,White,Yellow,3
